@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="OwnlyPlans Claude Skill banner">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26005F"/><stop offset="1" stop-color="#17104F"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#7C5CFF" stop-opacity=".45"/><stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="400" fill="url(#bg)"/><rect width="1280" height="400" fill="url(#glow)"/>
+<svg x="80" y="90" width="160" height="160" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="#26005F"/><svg x="40" y="88" width="432" height="336" viewBox="20 62 534 364"><defs>
+    <linearGradient id="opCloud" x1="0" y1="0" x2="0.85" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.72" stop-color="#F7F4FF"/>
+      <stop offset="1" stop-color="#E8DEFF"/>
+    </linearGradient>
+    <linearGradient id="opEye" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34217F"/>
+      <stop offset="1" stop-color="#17104F"/>
+    </linearGradient>
+    <linearGradient id="opWord" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F0E9FF"/>
+    </linearGradient>
+  </defs><!-- Cloud mascot -->
+  <g>
+    <path d="M112 354
+      C66 350 31 318 31 273
+      C31 232 58 198 98 187
+      C99 122 151 73 218 73
+      C262 73 301 94 325 128
+      C345 113 371 106 397 111
+      C450 120 487 166 483 220
+      C522 238 546 274 542 315
+      C538 367 496 403 443 403
+      H145
+      C133 403 122 400 112 394
+      C102 386 101 369 112 354Z"
+      fill="url(#opCloud)"/>
+
+    <!-- Soft lower edge accent -->
+    <path d="M120 386 C161 405 205 405 250 399 H441 C484 399 518 373 533 339
+      C524 385 488 415 441 415 H150 C137 415 125 410 115 402Z"
+      fill="#CFC0FF" opacity=".48"/>
+
+    <!-- Brows -->
+    <path d="M166 228 Q184 207 204 212" fill="none" stroke="#3D2B91" stroke-width="10" stroke-linecap="round"/>
+    <path d="M326 208 Q347 194 366 207" fill="none" stroke="#3D2B91" stroke-width="10" stroke-linecap="round"/>
+
+    <!-- Eyes -->
+    <ellipse cx="220" cy="294" rx="57" ry="64" fill="url(#opEye)"/>
+    <ellipse cx="372" cy="285" rx="57" ry="64" fill="url(#opEye)"/>
+    <circle cx="202" cy="273" r="12" fill="#FFFFFF"/>
+    <circle cx="238" cy="309" r="5" fill="#FFFFFF" opacity=".95"/>
+    <circle cx="354" cy="264" r="12" fill="#FFFFFF"/>
+    <circle cx="390" cy="300" r="5" fill="#FFFFFF" opacity=".95"/>
+
+    <!-- Tiny warm cheeks -->
+    <ellipse cx="112" cy="335" rx="22" ry="11" fill="#F6A5C5" opacity=".72"/>
+    <ellipse cx="461" cy="326" rx="22" ry="11" fill="#F6A5C5" opacity=".72"/>
+  </g></svg></svg>
+<text x="280" y="160" font-family="Inter,system-ui,-apple-system,Segoe UI,sans-serif" font-size="64" font-weight="800" fill="#FFFFFF">OwnlyPlans</text>
+<text x="280" y="222" font-family="Inter,system-ui,-apple-system,Segoe UI,sans-serif" font-size="40" font-weight="600" fill="#CFC0FF">Claude Skill</text>
+<text x="280" y="272" font-family="Inter,system-ui,-apple-system,Segoe UI,sans-serif" font-size="26" fill="#E8DEFF">Own the Plan.</text>
+<g font-family="Inter,system-ui,-apple-system,Segoe UI,sans-serif" font-size="18" font-weight="600">
+<rect x="280" y="310" width="132" height="40" rx="20" fill="#34217F"/><text x="346" y="336" text-anchor="middle" fill="#F7F4FF">Elements</text>
+<rect x="424" y="310" width="100" height="40" rx="20" fill="#34217F"/><text x="474" y="336" text-anchor="middle" fill="#F7F4FF">Plans</text>
+<rect x="536" y="310" width="100" height="40" rx="20" fill="#34217F"/><text x="586" y="336" text-anchor="middle" fill="#F7F4FF">Skills</text>
+<rect x="648" y="310" width="150" height="40" rx="20" fill="#34217F"/><text x="723" y="336" text-anchor="middle" fill="#F7F4FF">MCP servers</text>
+<rect x="810" y="310" width="110" height="40" rx="20" fill="#34217F"/><text x="865" y="336" text-anchor="middle" fill="#F7F4FF">Plugins</text></g>
+<text x="1200" y="360" text-anchor="end" font-family="Inter,system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" fill="#CFC0FF">ownlyplans.com</text>
+</svg>
